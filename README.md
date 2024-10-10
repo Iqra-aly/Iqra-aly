@@ -22,5 +22,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iqra-aly&show_icons=true&locale=en&layout=compact" alt="iqra-aly" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iqra-aly&show_icons=true&locale=en" alt="iqra-aly" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iqra-aly&" alt="iqra-aly" /></p>
